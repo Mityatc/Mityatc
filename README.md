@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityatc&label=Profile%20views&color=0e75b6&style=flat" alt="mityatc" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
 - 📫 How to reach me **mtandon379@gmail.com**
 
