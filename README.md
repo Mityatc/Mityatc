@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 📫 How to reach me **mtandon379@gmail.com**
+- ➡️ [Portfolio](https://mithileshtandon.netlify.app/)
 
 - ⚡ Fun fact **Other than coding I love Coding**
 
