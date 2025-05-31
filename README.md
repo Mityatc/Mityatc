@@ -39,13 +39,13 @@
   <a href="https://linkedin.com/in/mithilesh-tandon-a42bbb28a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mithilesh_tandon" target="_blank">
+  <a href="https://instagram.com/mithilesh.tandon" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:mithileshtandon64@gmail.com" target="_blank">
+  <a href="mailto:mithileshtandon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/mithilesh_t" target="_blank">
+  <a href="https://x.com/mityahuu" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
