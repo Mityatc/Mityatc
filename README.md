@@ -71,7 +71,8 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/F75C7E/mityatc" alt="Mithilesh's Github chart" />
 </p>
-![snake gif](https://raw.githubusercontent.com/Mityatc/Mityatc/output/github-snake-dark.svg)
+
+
 
 
 <h3 align="center">👨‍💻 Mityatc in the code lane</h3>
