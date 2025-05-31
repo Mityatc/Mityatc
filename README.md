@@ -25,7 +25,7 @@
 <details>
 <summary>🎯 <strong>Extra-curricular skills 😈😈</strong></summary>
 
-- 🏋️ Gym Freak | ✏️ Sketch Artist | Mimicry Artist | 🏐 Outdoor Sports --you just name it !
+- 🏋️ Gym Freak | ✏️ Sketch Artist | 🎭 Mimicry Artist | 🏐 Outdoor Sports --you just name it !
 - Always down to flex skills — on canvas, console, or the field 😎🔥
 
 </details>
