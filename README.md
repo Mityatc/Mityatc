@@ -8,30 +8,24 @@
   <img src="https://komarev.com/ghpvc/?username=mityatc&label=Profile%20views&color=F75C7E&style=flat-square" alt="Profile Views"/>
 </p>
 
----
-
-- 🌱 I’m currently diving into **Python**, **MERN Stack**
-- 👨‍💻 Explore my work here: [**My Portfolio**](https://mithileshtandon.netlify.app/)
+- 🌱 I’m currently diving into **Python**, **MERN Stack**  
+- 👨‍💻 Explore my work here: [**My Portfolio**](https://mithileshtandon.netlify.app/)  
 - ⚡ Fun fact: **Other than coding I love coding🧼**
 
----
+<h3 align="center">🎯 My Hustle Highlights</h3>
 
-<h3 align="center">🏆 Achievements 🏆</h3>
-
-- 🥈 **First Runner-Up** at **LEVEL UP Hackathon**
-  
----
+- 🥈 **First Runner-Up** at **LEVEL UP Hackathon**  
+- 🎭 **Mood Indigo** – Indigo Squad Member and Performer at Mood Indigo in **2023** and **2024**  
+- 🧠 **TCET MULTICON** – Contributed in **Paper Presentation**, secured **70%** in Python Training Internship (**IIT Bombay**)  
+- 👨‍💻 **Hackathons** – Participated in **10+ Hackathons** (National & Inter-college level)
 
 <details>
 <summary>🎯 <strong>Extra-curricular skills 😈😈</strong></summary>
 
-- 🏋️ Gym Freak | ✏️ Sketch Artist | 🎭 Mimicry Artist | 🏐 Outdoor Sports --you just name it !
+- 🏋️ Gym Freak | ✏️ Sketch Artist | 🎭 Mimicry Artist | 🏐 Outdoor Sports — you just name it!  
 - Always down to flex skills — on canvas, console, or the field 😎🔥
 
 </details>
-
-
----
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 
@@ -50,8 +44,6 @@
   </a>
 </p>
 
----
-
 <h3 align="left">💻 Tech Stack & Tools:</h3>
 
 <p align="center">
@@ -68,8 +60,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
----
-
 <h3 align="left">📈 GitHub Stats & Activity</h3>
 
 <p align="center">
@@ -82,26 +72,8 @@
   <img src="https://ghchart.rshah.org/F75C7E/mityatc" alt="Mithilesh's Github chart" />
 </p>
 
----
-
-
-
-<h3 align="center"> Mityatc in the code lane </h3>
+<h3 align="center">👨‍💻 Mityatc in the code lane</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="250" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
