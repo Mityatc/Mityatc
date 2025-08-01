@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Mithilesh+Tandon!;Software+Developer;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate about turning logic into code from India IN</h3>
+<h3 align="center">🚀 Passionate about turning logic into code from India IN/h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mityatc&label=Profile%20views&color=F75C7E&style=flat-square" alt="Profile Views"/>
