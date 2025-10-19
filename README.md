@@ -15,7 +15,8 @@
 
 - 🥈 **First Runner-Up** at **LEVEL UP Hackathon**  
 - 🎭 **Mood Indigo** – Indigo Squad Member and Performer at Mood Indigo in **2023** and **2024**  
-- 🧠 **TCET MULTICON** – Contributed in **Paper Presentation**, secured **70%** in Python Training Internship (**IIT Bombay**)  
+- 🧠 **TCET MULTICON** – Contributed in **Paper Presentation**
+- 🎯 **IIT Bombay** - Python Training Internship
 - 👨‍💻 **Hackathons** – Participated in **10+ Hackathons** (National & Inter-college level)
 
 <details>
