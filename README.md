@@ -72,11 +72,3 @@
   <img src="https://ghchart.rshah.org/F75C7E/mityatc" alt="Mithilesh's Github chart" />
 </p>
 
-
-
-
-<h3 align="center">👨‍💻 Mityatc in the code lane</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="250" />
-</p>
