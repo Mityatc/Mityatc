@@ -96,31 +96,32 @@ Production-grade turf booking platform featuring booking lifecycle management, R
 
 ---
 
-## 💻 Tech Stack & Tools
+## ⚡ Technologies
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,cpp" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br><br>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-<br><br>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
-<br><br>
+### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github,postman,figma,vscode" />
-
-</p>
-
----
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ## 💻 Coding Profiles
 
@@ -170,14 +171,6 @@ Production-grade turf booking platform featuring booking lifecycle management, R
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityatc&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/F75C7E/mityatc" alt="Github Contribution Graph" />
 </p>
 
 ---
