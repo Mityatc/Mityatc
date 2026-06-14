@@ -127,7 +127,7 @@ fun_fact:     I've performed at Mood Indigo AND shipped to prod in the same week
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mityatc)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mityatc)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithileshtandon@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=netlify&logoColor=white)](https://mithileshtandon.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=netlify&logoColor=white)](https://mityatc.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mityahuu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mithilesh.tandon)
 
