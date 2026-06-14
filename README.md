@@ -1,188 +1,156 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Mithilesh+Tandon!;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Full Stack Developer • Backend Enthusiast
-</h3>
+```
+███╗   ███╗██╗████████╗██╗  ██╗██╗██╗     ███████╗███████╗██╗  ██╗
+████╗ ████║██║╚══██╔══╝██║  ██║██║██║     ██╔════╝██╔════╝██║  ██║
+██╔████╔██║██║   ██║   ███████║██║██║     █████╗  ███████╗███████║
+██║╚██╔╝██║██║   ██║   ██╔══██║██║██║     ██╔══╝  ╚════██║██╔══██║
+██║ ╚═╝ ██║██║   ██║   ██║  ██║██║███████╗███████╗███████║██║  ██║
+╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-Building scalable web applications using ASP.NET Core, Spring Boot, Angular, React, Cloud Technologies, and Modern Backend Systems.
-</p>
+### `MITHILESH TANDON` · Software Engineer · Full Stack Dev · Backend Nerd
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mityatc&label=Profile%20Views&color=F75C7E&style=flat-square" alt="Profile Views"/>
-</p>
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-brightgreen?style=flat-square&labelColor=000000)
+![Vibe](https://img.shields.io/badge/VIBE-SHIPPING_DAILY-7F77DD?style=flat-square&labelColor=000000)
+![DSA](https://img.shields.io/badge/GRIND-LEETCODE_LOCKED_IN-FFA116?style=flat-square&labelColor=000000&logo=leetcode&logoColor=FFA116)
 
----
+<img src="https://komarev.com/ghpvc/?username=mityatc&label=Profile+Views&color=7F77DD&style=flat-square" />
 
-## 🚀 About Me
-
-Software Engineer with internship experience at Infosys and SDAC Infotech, building full-stack applications using ASP.NET Core, Angular, Spring Boot, React.js, Node.js, and SQL databases.
-
-I enjoy designing backend systems, building REST APIs, solving Data Structures & Algorithms problems, and transforming business requirements into production-ready applications.
-
-### Current Focus
-
-* Backend Engineering
-* Full Stack Development
-* System Design
-* Cloud Technologies
-* Open Source Contributions
-* Data Structures & Algorithms
+</div>
 
 ---
 
-## 💼 Experience
+## `>_ whoami`
 
-### Software Engineer Intern | Infosys
+> Building scalable web apps using ASP.NET Core, Spring Boot, Angular, React, and modern cloud infra.
+> I enjoy designing backend systems, crafting clean REST APIs, and turning vague business requirements into production-ready code that actually works.
 
-📅 Dec 2025 – May 2026
-
-* Developed production-grade full-stack applications using ASP.NET Core, Angular, and SQL Server.
-* Built secure REST APIs using JWT Authentication and Role-Based Access Control (RBAC).
-* Worked with Azure DevOps CI/CD pipelines and Agile development workflows.
-* Collaborated within a 5-member development team delivering scalable business solutions.
-
-### Full Stack Developer Intern | SDAC Infotech
-
-📅 Mar 2025 – Jul 2025
-
-* Developed Spring Boot backend services and REST APIs.
-* Automated billing workflows involving GST, freight, insurance, and taxation modules.
-* Built full-stack features using React.js, Node.js, Express.js, and MySQL.
-* Worked on container optimization and logistics-based business applications.
+```yaml
+currently:    Backend Engineering & Full Stack Dev
+obsessed_with: System Design + Cloud + DSA
+hackathons:   10+ and counting (send me the invite)
+fun_fact:     I've performed at Mood Indigo AND shipped to prod in the same week
+```
 
 ---
 
-## 🏆 Achievements
+## `>_ experience`
 
-* 🥈 First Runner-Up — Level Up Hackathon 2025
-* 💻 Open Source Contributor — GirlScript Summer of Code 2024
-* 🚀 Participated in 10+ National & Inter-College Hackathons
-* 🎓 Python Programming Training — IIT Bombay
-* 📑 Presented Research Work at TCET Multicon
-* 🎭 Performer & Indigo Squad Member — Mood Indigo (2023 & 2024)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Infosys — Software Engineer Intern          DEC 2025 – MAY 2026│
+└─────────────────────────────────────────────────────────────────┘
+```
+- Built production-grade full-stack apps with **ASP.NET Core**, **Angular** & **SQL Server** — not todo apps, actual enterprise business solutions
+- Engineered secure REST APIs using **JWT Auth** + **Role-Based Access Control (RBAC)**
+- Shipped on **Azure DevOps** CI/CD pipelines inside a 5-dev Agile squad
+- Turned stakeholder requirements into features that real users interact with
 
----
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  theDevArmy — Frontend Developer Intern      JUL 2024 – OCT 2024│
+└─────────────────────────────────────────────────────────────────┘
+```
+- Delivered accessible, mobile-first UI components using **React.js** + **Tailwind CSS** for a hackathon showcase platform
+- Hit full **WCAG compliance** with consistent cross-device rendering across all viewport breakpoints — because "works on my machine" is not a deployment strategy
+- Built component-level design systems that scale without falling apart
 
-## 🚀 Featured Projects
-
-### ⚖️ LegalMitra
-
-AI-powered legal assistant leveraging Retrieval-Augmented Generation (RAG), semantic search, document analysis, and lawyer recommendations.
-
-**Tech Stack:** React.js, FastAPI, LangChain, OpenAI API, Tailwind CSS, JWT
-
-🔗 https://github.com/Mityatc
-
----
-
-### 🌾 PureFarmDirect
-
-Farmer-to-consumer marketplace with secure payments, geolocation-based farmer discovery, product reviews, and role-based dashboards.
-
-**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, Razorpay
-
-🔗 https://github.com/Mityatc
-
----
-
-### ⚽ PitchPerfect
-
-Production-grade turf booking platform featuring booking lifecycle management, RBAC authentication, payment management, and Azure deployment workflows.
-
-**Tech Stack:** ASP.NET Core, Angular, SQL Server, Azure DevOps
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  SDAC Infotech — Full Stack Dev Intern       MAR 2025 – JUL 2025│
+└─────────────────────────────────────────────────────────────────┘
+```
+- Developed **Spring Boot** backend services and REST APIs for container optimization & logistics
+- Automated billing workflows covering GST, freight, insurance & taxation modules — saved actual human hours
+- Built full-stack features across **React.js**, **Node.js**, **Express.js**, and **MySQL**
 
 ---
 
-## ⚡ Technologies
+## `>_ projects that slap`
 
-### Languages
+| Project | What it does | Stack |
+|---|---|---|
+| ⚖️ **LegalMitra** | AI legal assistant with RAG + semantic search. Because everyone deserves legal help, not just the rich. | React · FastAPI · LangChain · OpenAI |
+| 🌾 **PureFarmDirect** | Farm-to-consumer marketplace with geolocation, Razorpay payments & role dashboards. Cutting out the middleman. | React · Node · Express · PostgreSQL |
+| ⚽ **PitchPerfect** | Production-grade turf booking. Full booking lifecycle + RBAC + Azure DevOps deployed. | ASP.NET Core · Angular · SQL Server |
+
+---
+
+## `>_ tech stack`
+
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
+**Backend**
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Database & Cloud
+**Database & Cloud**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/Mityatc" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://github.com/Mityatc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## `>_ W's collected`
 
-<p align="center">
-  <a href="https://linkedin.com/in/mithilesh-tandon-a42bbb28a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mithileshtandon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/mityahuu" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/mithilesh.tandon" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+```
+🥈 First Runner-Up ............ Level Up Hackathon 2025
+💻 Open Source Contributor ..... GirlScript Summer of Code 2024
+🚀 Hackathon Veteran ........... 10+ National & Inter-College
+🎓 Certified Grinder ........... Python Training @ IIT Bombay
+📑 Published Research .......... Presented at TCET Multicon
+🎭 Performer ................... Mood Indigo 2023 & 2024 (Indigo Squad)
+```
 
 ---
 
-## 📈 GitHub Analytics
+## `>_ find me`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mityatc&show_icons=true&theme=radical&hide=prs" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mityatc&theme=radical" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mithilesh-tandon-a42bbb28a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mityatc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mityatc)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithileshtandon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=netlify&logoColor=white)](https://mithileshtandon.netlify.app/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mityahuu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mithilesh.tandon)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityatc&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
-## 🌟 Portfolio
+## `>_ github analytics`
 
-<p align="center">
-  <a href="https://mithileshtandon.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-F75C7E?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mityatc&show_icons=true&theme=tokyonight&hide=prs&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mityatc&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=F75C7E&currStreakLabel=7F77DD" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityatc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD" />
+</div>
 
-<p align="center">
-Building impactful products, learning continuously, and striving to create software that solves real-world problems.
-</p>
+---
+
+<div align="center">
+
+```
+// building stuff that matters · shipping daily · never copy-pasting StackOverflow (sometimes)
+```
+
+</div>
